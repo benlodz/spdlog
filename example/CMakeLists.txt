@@ -1,5 +1,8 @@
 # Copyright(c) 2019 spdlog authors Distributed under the MIT License (http://opensource.org/licenses/MIT)
 
+# Make sure to also have the development files for your respective OS!
+# For example, Debian based distributions should install libspdlog-dev.
+
 cmake_minimum_required(VERSION 3.11)
 project(spdlog_examples CXX)
 
